@@ -1,7 +1,7 @@
 <?php
 /*
-Plugin Name: 23 Video fetcher
-Plugin URI: http://www.clcbio.com
+Plugin Name: TwentyThree Video Manager
+Plugin URI:
 Description: This plugin creates a link between your 23 video site and a wordpress site. Simply provide the plugin with the URL of the video site and a tag to search for. The plugin will then search your video site for that tag and create a gallery on your wordpress site, by using the [23video] shortcode
 Version: 1.0
 Author: Ingiber Olafsson
